@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Sitemap: https://naturamuhendislik.com.tr/sitemap.xml
+
